@@ -1,4 +1,4 @@
-# Fibonacci Sequence REST API
+# Fibonacci API :D 
 
 Un proyecto que tiene una ruta de /fibonacci
 
